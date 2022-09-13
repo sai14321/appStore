@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.background {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: roboto;
+  font-weight: bolder;
+  font-size: 50px;
+  margin-top: -300px;
+  color: #1e293b;
+  text-align: center;
+}
+.searchInput {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  width: 40vw;
+  height: 35px;
+}
+.display1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.appsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.appsAppStore {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}

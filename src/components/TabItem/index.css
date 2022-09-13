@@ -1,0 +1,22 @@
+.types {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  list-style-type: none;
+  font-family: roboto;
+  color: #7b8794;
+  font-weight: bold;
+  font-size: 30px;
+  background-color: transparent;
+  border-style: none;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid;
+  border-color: #dfe2e5;
+}
+.display {
+  display: flex;
+  flex-direction: row;
+}
